@@ -45,4 +45,4 @@ The model is trained on a synthetic dataset and achieves a **Test Accuracy of 97
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your_username/emotion-detection-project.git
+   git clone https://github.com/sahilgupta3023/emotion-detection-project.git
